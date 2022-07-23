@@ -1,0 +1,29 @@
+body{
+    margin-top: 3%;
+    background-color: rgb(247, 200, 133);
+}
+h1{
+    text-align: center;
+    padding: 10px;
+    font-family: cursive;
+}
+.one, .two, .three{
+    text-align: center;
+}
+.three, .two{
+    margin-top: 50px;
+}
+textarea{
+    background-color: rgb(252, 247, 229);
+    border: 2px solid black;
+    border-radius: 15px;
+    
+}
+button{
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+    background-color: rgb(234, 168, 83);
+    font-size: 20px;
+    margin-right: 20px;
+}
